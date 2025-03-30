@@ -1,6 +1,6 @@
 # ADDO-2024
 
-Repository for ADDO 2024 Conference Materials
+Repository for ADDO 2024 Conference Materials.
 
 ## Presenters
 
